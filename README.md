@@ -1,2 +1,2 @@
 # socialNetwork
-MY PROJECT
+My first pet project in React.
